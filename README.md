@@ -1,5 +1,10 @@
 # Zomato Stock Analysis & LSTM Forecasting
 
+> **License & Usage Notice:** This repository is proprietary and is provided
+> for educational and research viewing only. Financial, investment, trading,
+> commercial, redistribution, and derivative use is not permitted without
+> prior written permission. See [`LICENSE`](LICENSE) for the complete terms.
+
 An end-to-end financial time-series analysis and forecasting project using historical Zomato Limited stock data from the National Stock Exchange of India (NSE).
 
 The project is divided into three phases:
